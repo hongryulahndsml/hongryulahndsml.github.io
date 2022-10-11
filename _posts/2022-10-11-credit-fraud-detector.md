@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Credit Fraud Detector"
+author: "Hongryul Ahn"
+tags: Kaggle
+---
 
 <h1 align="center"> Credit Fraud Detector </h1>
 
