@@ -2,7 +2,7 @@
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://hongryulahndsml.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -28,7 +28,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
+
+remote_theme: chesterhow/tale
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
