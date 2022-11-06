@@ -1125,7 +1125,7 @@ print(test_counts_label/ len(original_ytest))
 
 
 ## Random Under-Sampling:
-<img src="http://contrib.scikit-learn.org/imbalanced-learn/stable/_images/sphx_glr_plot_random_under_sampler_001.png">
+<img src="http://glemaitre.github.io/imbalanced-learn/_images/sphx_glr_plot_random_under_sampler_001.png">
 
 In this phase of the project we will implement *"Random Under Sampling"* which basically consists of removing data in order to have a more <b> balanced dataset </b> and thus avoiding our models to overfitting.
 
@@ -1504,7 +1504,7 @@ plt.show()
 
 ## Anomaly Detection:
 <a id="anomaly"></a>
-<img src="https://discourse-cdn-sjc1.com/business6/uploads/analyticsvidhya/original/2X/d/d11281b44c2e440b36aaf29156b5032105d2d06b.png">
+<img src="https://cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/business6/uploads/analyticsvidhya/original/2X/d/d11281b44c2e440b36aaf29156b5032105d2d06b.png">
 
 
 Our main aim in this section is to remove "extreme outliers" from features that have a high correlation with our classes. This will have a positive impact on the accuracy of our models.  <br><br>
