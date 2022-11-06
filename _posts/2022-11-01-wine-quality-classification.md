@@ -928,7 +928,7 @@ plt.title("frequency of quality", fontsize=20);
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_23_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_23_1.png)
     
 
 
@@ -950,67 +950,67 @@ show_dist_plot(train, numerical_columns)
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_0.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_1.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_2.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_2.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_3.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_3.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_4.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_4.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_5.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_5.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_6.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_6.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_7.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_7.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_8.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_8.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_9.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_9.png)
     
 
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_25_10.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_25_10.png)
     
 
 
@@ -1027,7 +1027,7 @@ sns.heatmap(corr, annot=True, square=False, vmin=-.6, vmax=1.0);
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_27_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_27_0.png)
     
 
 
@@ -1564,7 +1564,7 @@ plot_confusion_matrix(model,X_validation,y_validation,cmap='OrRd')
 
 
     
-![png](_images/2022-11-01-wine-quality-classification/output_48_2.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-11-01-wine-quality-classification/output_48_2.png)
     
 
 
