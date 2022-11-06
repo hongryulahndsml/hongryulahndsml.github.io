@@ -2,7 +2,7 @@
 layout: post
 title: "Credit Fraud Detector"
 author: "Hongryul Ahn"
-tags: Kaggle
+tags: Kaggle MachineLearning
 ---
 
 <h1 align="center"> Credit Fraud Detector </h1>
@@ -755,7 +755,7 @@ plt.title('Class Distributions \n (0: No Fraud || 1: Fraud)', fontsize=14)
 
 
 
-![png](output_8_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_8_1.png)
 
 
 **Distributions:** By seeing the distributions we can have an idea how skewed are these features, we can also see further distributions of the other features. There are techniques that can help the distributions be less skewed which will be implemented in this notebook in the future.
@@ -781,7 +781,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_10_0.png)
 
 
 <h2> Scaling and Distributing </h2>
@@ -1412,7 +1412,7 @@ plt.show()
 
 
 
-![png](output_19_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_19_1.png)
 
 
 <h3> Correlation Matrices </h3>
@@ -1447,7 +1447,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_21_0.png)
 
 
 
@@ -1473,7 +1473,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_22_0.png)
 
 
 
@@ -1499,7 +1499,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_23_0.png)
 
 
 ## Anomaly Detection:
@@ -1559,7 +1559,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_25_0.png)
 
 
 
@@ -1670,7 +1670,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_27_0.png)
 
 
 <h2>Dimensionality Reduction and Clustering: </h2>
@@ -1768,7 +1768,7 @@ plt.show()
 ```
 
 
-![png](output_30_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_30_0.png)
 
 
 <h2> Classifiers (UnderSampling):  </h2>
@@ -2072,7 +2072,7 @@ plot_learning_curve(log_reg, knears_neighbors, svc, tree_clf, X_train, y_train, 
 
 
 
-![png](output_41_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_41_1.png)
 
 
 
@@ -2137,7 +2137,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_44_0.png)
 
 
 ## A Deeper Look into LogisticRegression:
@@ -2180,7 +2180,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_46_0.png)
 
 
 
@@ -2280,7 +2280,7 @@ plt.title('UnderSampling Precision-Recall curve: \n Average Precision-Recall Sco
 
 
 
-![png](output_51_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_51_1.png)
 
 
 ### SMOTE Technique (Over-Sampling):
@@ -2446,7 +2446,7 @@ plt.title('OverSampling Precision-Recall curve: \n Average Precision-Recall Scor
 
 
 
-![png](output_57_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_57_1.png)
 
 
 
@@ -2543,7 +2543,7 @@ plt.show()
 ```
 
 
-![png](output_61_0.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_61_0.png)
 
 
 
@@ -2877,7 +2877,7 @@ plot_confusion_matrix(actual_cm, labels, title="Confusion Matrix \n (with 100% a
 
 
 
-![png](output_72_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_72_1.png)
 
 
 ### Keras || OverSampling (SMOTE):
@@ -2988,7 +2988,7 @@ plot_confusion_matrix(actual_cm, labels, title="Confusion Matrix \n (with 100% a
 
 
 
-![png](output_79_1.png)
+![png](https://raw.githubusercontent.com/hongryulahndsml/hongryulahndsml.github.io/master/_images/2022-10-11-credit-fraud-detector/output_79_1.png)
 
 
 ### Conclusion: 
