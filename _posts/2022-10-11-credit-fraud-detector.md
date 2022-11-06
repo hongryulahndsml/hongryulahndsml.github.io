@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Credit Fraud Detector"
+title: "신용카드 사기 사용 감지 분석"
 author: "Hongryul Ahn"
 tags: Kaggle MachineLearning
 ---
